@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning to become web dev
 - 👨‍💻 I'm currently 3rd year student BSIT
-- 📫 You can contact me on Telegram (@miracl3kun)
+- 📫 You can contact me in Telegram (@miracl3kun)
 
 
 <!---
